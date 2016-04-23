@@ -7,8 +7,10 @@
             com.netease.NoodlesServlet
         </servlet-class>
     </servlet>
+
     <servlet-mapping>
         <servlet-name>noodles</servlet-name>
         <url-pattern>/noodles</url-pattern>
     </servlet-mapping>
+
 </web-app>
